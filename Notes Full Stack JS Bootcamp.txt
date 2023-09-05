@@ -1,0 +1,59 @@
+L'Internet
+Internet est un vaste réseau de réseaux ou une infrastructure de réseau. Il connecte des millions d'ordinateurs dans le monde, formant un réseau dans lequel n'importe quel ordinateur peut communiquer avec n'importe quel autre ordinateur tant qu'ils sont tous deux connectés à Internet.
+Les informations qui circulent sur Internet le font via un ensemble de règles appelées protocoles.
+
+
+Le Web (World Wide Web)
+Le World Wide Web, ou simplement le Web, est un moyen d'accéder à l'information via Internet. Il s’agit d’un modèle de partage d’informations construit sur Internet. Le Web utilise le protocole HTTP, l'un des langages parlés sur Internet, pour transmettre des données.
+
+
+Architecture Web
+Le Web peut être résumé comme une série d'interactions entre deux types de systèmes, les clients et les serveurs .
+
+
+Clientèle
+Les clients sont les appareils de l'utilisateur qui demandent et restituent du contenu Web. Les clients peuvent être : des navigateurs, des applications mobiles, des téléviseurs, etc.
+Nous vivons dans un monde de plus en plus connecté et le nombre de clients pouvant accéder au contenu Web augmente rapidement.
+Les clients ne sont pas connectés directement à Internet.
+Les clients sont connectés à Internet via leur FAI (Internet Service Provider).
+
+
+Les serveurs
+Les serveurs sont des programmes ou des systèmes qui s'exécutent sur un ordinateur spécial (avec un matériel spécial comme un équipement réseau et un accès réseau dédié).
+Leur travail consiste à fournir des données, des ressources ou des services à d'autres ordinateurs, appelés clients, via un réseau.
+Il existe différents types de serveurs tels que les serveurs Web, les serveurs de messagerie et les serveurs virtuels. Ceux-ci se spécialisent dans des types spécifiques de données ou des capacités de traitement spécifiques. Ils sont tous impliqués dans la fourniture du contenu que vous demandez ou des services que vous devez fournir.
+Les serveurs sont connectés directement à Internet et les pages Web (contenu) sont stockées sur le disque dur de ce serveur.
+
+
+Protocole
+Les protocoles réseau sont un ensemble de règles, de conventions et de structures de données qui dictent la manière dont les appareils échangent des données sur les réseaux.
+
+Les protocoles réseau contrôlent tous les aspects de la communication réseau, depuis l'envoi et la réception de messages jusqu'au formatage des fichiers pour différents types de messages.
+
+De la même manière que parler la même langue simplifie la communication entre deux personnes, les protocoles réseau permettent aux appareils d'interagir les uns avec les autres grâce à des règles prédéterminées intégrées au logiciel et au matériel des appareils.
+
+Un protocole réseau précisera par exemple :
+
+Le format des paquets de données.
+Le système d'adressage.
+Procédures de vérification des erreurs utilisées.
+
+
+Protocole HTTP
+HTTP signifie HyperText Transfer Protocol. HTTP est le protocole sous-jacent utilisé par le Web et ce protocole définit la manière dont les messages sont formatés et transmis. Il détermine également les actions que les serveurs Web et les navigateurs doivent entreprendre en réponse à diverses commandes.
+
+Par exemple, lorsque vous saisissez une URL dans votre navigateur, cela envoie une commande HTTP au serveur Web lui demandant de récupérer et de transmettre la page Web demandée.
+
+La requête HTTP contient différents types de méthodes pour sélectionner l'action souhaitée auprès du serveur.
+
+Les méthodes les plus courantes sont :
+
+GET : pour récupérer les données du serveur.
+POST : pour soumettre les données au serveur.
+PUT : pour mettre à jour les données déjà présentes sur le serveur.
+DELETE : pour supprimer les données du serveur.
+
+
+
+
+
